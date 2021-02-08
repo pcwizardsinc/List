@@ -1,6 +1,0 @@
-# Name: Basic Ad Block / Malware Block
-# URL:  pcwizardsinc.com/SAFEWashington.com
-# Last Update: Feb 7th, 2021
-
-247media.com
-doubleclick.com
