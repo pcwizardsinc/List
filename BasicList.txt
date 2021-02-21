@@ -2,6 +2,8 @@
 #URL:GitHub/SAFE
 #Last Update: Feb 19th 2021
 
+api.mobiletraits.com
+api.specialattributes.com
 360railserviices.com
 365online-message-box.com
 4realrecords.com
