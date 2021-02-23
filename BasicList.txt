@@ -1,6 +1,6 @@
 #BasicList
 #URL:GitHub/SAFE
-#Last Update: Feb 19th 2021
+#Last Update: Feb 23rd 2021
 
 api.mobiletraits.com
 api.specialattributes.com
