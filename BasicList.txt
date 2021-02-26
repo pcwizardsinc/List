@@ -1,7 +1,7 @@
-#BasicList
-#Last Update: Feb 26th 2021
-#URL:GitHub/SAFE
-
+# BasicList
+# Last Update: Feb 26th 2021
+# URL:GitHub/SAFE
+#
 api.mobiletraits.com
 api.specialattributes.com
 360railserviices.com
