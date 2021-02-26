@@ -1,6 +1,6 @@
 #BasicList
+#Last Update: Feb 26th 2021
 #URL:GitHub/SAFE
-#Last Update: Feb 23rd 2021
 
 api.mobiletraits.com
 api.specialattributes.com
@@ -2207,7 +2207,6 @@ questionpro.com
 quip.com/dEyyAAAEI99Q
 quip.com/miaxAPpgfyTA
 quip.com/YKlhAu8TzEXQ
-garrydueschecks.quip.com
 quitsmokingcourse.com
 quotesstory.com
 quotestatusdp.com
